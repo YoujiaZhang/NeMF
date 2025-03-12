@@ -36,4 +36,8 @@ Download `Synthetic4Relight.zip` from [here](https://drive.google.com/file/d/1wW
 }
 ```
 
+## Contact
+
+For feedback, questions, or press inquiries please contact [Youjia Zhang](Youjiazhang@hust.edu.cn).
+
 Acknowledgements: part of our code is inherited from  [InvRender](https://github.com/zju3dv/InvRender/tree/main) and [NeRF](https://github.com/bmild/nerf).
