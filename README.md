@@ -1,13 +1,13 @@
 # Inverse Volume Rendering with Neural Microflake Field
-### [Project Page](https://youjiazhang.github.io/NeMF/) | [Paper](https://arxiv.org/pdf/2304.00782)
+### [Project Page](https://youjiazhang.github.io/NeMF/) | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_NeMF_Inverse_Volume_Rendering_with_Neural_Microflake_Field_ICCV_2023_paper.pdf)
 
 <div align=center>
 <img src="imgs/teaser.jpg" width="100%"/>
 </div>
 
-> [NeMF: Inverse Volume Rendering with Neural Microflake Field](https://arxiv.org/pdf/2312.06198)  
+> [NeMF: Inverse Volume Rendering with Neural Microflake Field](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_NeMF_Inverse_Volume_Rendering_with_Neural_Microflake_Field_ICCV_2023_paper.pdf)  
 > Youjia Zhang, Zikai Song, Junqing Yu, Yawei Luo, Wei Yang.
-> IJCAI 2025
+> ICCV 2023
 
 ## Installation
 
