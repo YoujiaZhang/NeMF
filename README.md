@@ -5,9 +5,9 @@
 <img src="imgs/teaser.jpg" width="100%"/>
 </div>
 
-> [NeMF: Inverse Volume Rendering with Neural Microflake Field](https://arxiv.org/pdf/2304.00782)  
-> Youjia Zhang, Teng Xu, Junqing Yu, Yuteng Ye, Junle Wang, Yanqing Jing, Jingyi Yu, Wei Yang.  
-> ICCV 2023
+> [NeMF: Inverse Volume Rendering with Neural Microflake Field](https://arxiv.org/pdf/2312.06198)  
+> Youjia Zhang, Zikai Song, Junqing Yu, Yawei Luo, Wei Yang.
+> IJCAI 2025
 
 ## Installation
 
